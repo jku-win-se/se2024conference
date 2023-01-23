@@ -1,1 +1,2 @@
+theme: Modernist
 # seconference
